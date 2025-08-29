@@ -2,8 +2,8 @@
 
 `rofipass` is an efficient `rofi` script designed to complement the [passwordstore](https://www.passwordstore.org/). This tool integrates the functionalities of `pass`, `pass-otp`, and `pass-tomb` within `rofi`, enabling you to access your passwords swiftly and effortlessly.
 
-<div align="center"><a href="https://github.com/anstrinn/elegantvagrant/tree/main/rofi">
-  <img src="https://git.disroot.org/anstrinn/images/raw/branch/main/pass/2025-05-16-rofipass.webp" alt="pass-rofi image">
+<div align="center"><a href="https://github.com/aocoronel/elegantvagrant/tree/main/rofi">
+  <img src="https://git.disroot.org/aocoronel/images/raw/branch/main/pass/2025-05-16-rofipass.webp" alt="pass-rofi image">
   <p>pass-rofi with Elegant Vagrant Theme</p>
 </a>
 </div>
@@ -24,7 +24,7 @@
 ## Installation
 
 ```
-git clone https://github.com/anstrinn/rofipass
+git clone https://github.com/aocoronel/rofipass
 cd rofipass
 chmod 700 src/rofipass
 mv src/rofipass "$HOME/.local/bin"
